@@ -1,3 +1,5 @@
 # MJRefresh
 
-A description of this package.
+[MJRefresh]的Swift Package Manager版本。
+
+[MJRefresh]: https://github.com/CoderMJLee/MJRefresh
